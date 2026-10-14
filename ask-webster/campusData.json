@@ -1,0 +1,120 @@
+[
+  {
+    "id": "career-planning",
+    "topic": "Impact Center and Career Integration",
+    "category": "Career & Internships",
+    "description": "Career resources, internship opportunities, student employment support and Handshake access are available. Individual career coaching appointments, resume reviews and mock interviews are NOT currently available until further notice. For career questions, email icci@webster.edu.",
+    "email": "icci@webster.edu",
+    "url": "https://www.webster.edu/impact-center-career-integration/index.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "admissions",
+    "topic": "Office of Admissions",
+    "category": "Academic Support",
+    "description": "Contact Admissions for application support and information. Select the undergraduate or graduate request-information form for your degree level.",
+    "phone": "314-246-7800 (toll-free: 800-753-6765)",
+    "email": "admit@webster.edu",
+    "url": "https://webster.edu/admissions/request-more-info/index.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "it-support",
+    "topic": "IT / Technology Support",
+    "category": "IT & Technology",
+    "description": "The IT Support Center handles university technology issues, including email and online courses. Contact support by phone or email or submit a technology work order through the official IT page. For international locations email intl.itsupport@webster.edu. When emailing IT, include a description of the problem, your seven-digit student ID and contact information. Do not submit passwords.",
+    "phone": "314-246-5995; toll-free 866-435-7270; on-campus extension 5995",
+    "email": "support@webster.edu",
+    "hours": "US Central time: Monday-Thursday 8am-7pm; Friday 8am-4:30pm; closed Saturday and Sunday.",
+    "url": "https://webster.edu/technology/index.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "financial-aid",
+    "topic": "Office of Financial Aid",
+    "category": "Financial Aid",
+    "description": "The Financial Aid office helps students understand college costs, scholarships, grants and loans. Students can arrange a virtual or in-person counseling appointment. If selected for FAFSA verification, Webster notifies the student through the Connections Financial Aid Student portal or email. Contact the office for required documents and questions about your award.",
+    "phone": "314-968-6992 or 1-800-983-4623",
+    "email": "financialaid@webster.edu",
+    "url": "https://www.webster.edu/financialaid/resources-policies.php",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "housing",
+    "topic": "Housing and Residential Life: maintenance help",
+    "category": "Housing & Dining",
+    "description": "For a non-urgent maintenance problem in East, West or Maria residence halls or Webster Village Apartments, submit a work order using the link on the Current Residents page. Ask your Resident Assistant or the Housing Office for help submitting it. For an emergency maintenance issue, such as gas odor or flooding, contact Public Safety at 314-968-7430; they will contact Housing staff.",
+    "email": "housing@webster.edu",
+    "url": "https://www.webster.edu/housing/current.php",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "library",
+    "topic": "Emerson Library: hours, location and research help",
+    "category": "Library",
+    "description": "These building hours apply only to Fall 2026, August 24-December 18, in Central Time. Closed September 7 and November 26-27. Librarian chat is normally available 24/7 but not on most US federal holidays; chat is unavailable on Labor Day and Thanksgiving Day. Enter with a valid Webster ID card or app, or obtain a visitor card. Check the official hours page for changes or dates outside this period. The computer lab has a separate schedule.",
+    "office": "101 Edgar Road, St. Louis, Missouri 63119",
+    "phone": "Research Desk: 314-246-6950; Circulation Desk: 314-246-6952",
+    "hours": "Fall 2026 only, Central Time: Sunday 1-5pm; Monday 8:30am-10pm; Tuesday and Wednesday 8:30am-8pm; Thursday 8:30am-6pm; Friday 8:30am-5pm; Saturday 1-5pm. Holiday exceptions are listed in the description.",
+    "url": "https://library.webster.edu/about/hours-and-directions",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "international-students",
+    "topic": "International Student and Scholar Services (ISSS)",
+    "category": "International Students",
+    "description": "International Student and Scholar Services provides information for international students about I-20 and DS-2019 documents, immigration status and student requests. Completed and signed ISSS PDF request forms, with an academic advisor signature where applicable, are submitted to intlservices@webster.edu. For individual visa, travel or employment-authorization questions, contact ISSS rather than assuming eligibility. Application and admission questions go to intlstudy@webster.edu or +1-314-246-4685.",
+    "email": "intlservices@webster.edu",
+    "url": "https://webster.edu/admissions/international/student-scholar-services.php",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "handshake-access",
+    "topic": "Handshake: jobs and internships",
+    "category": "Career & Internships",
+    "description": "To access Handshake, go to https://webster.joinhandshake.com and choose SSO. Sign in with your Connections credentials, complete your profile and preferences, then search campus jobs, internships and off-campus employment or register for events. For access questions contact icci@webster.edu.",
+    "url": "https://www.webster.edu/impact-center-career-integration/index.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "first-year-test-optional",
+    "topic": "First-year admissions: test-optional application documents",
+    "category": "Admissions",
+    "description": "For first-year test-optional admission, submit the application, official high school transcripts including the grading scale, and a personal statement. Common Application or College Coalition applicants do not need an additional personal statement. Recommendation letters and a resume are welcomed. Home-school applicants and applicants from schools using narrative evaluations without a grading scale must provide test scores. These rules concern first-year undergraduate admission, not graduate or transfer admission.",
+    "url": "https://webster.edu/admissions/first-year-students.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "fine-arts-application",
+    "topic": "Fine Arts admissions: audition and portfolio",
+    "category": "Admissions",
+    "description": "Fine Arts departments have additional admissions steps. Submit the Webster application first, then request the applicable audition or interview, or arrange a portfolio review through the relevant department.",
+    "url": "https://webster.edu/admissions/first-year-students.php",
+    "lastUpdated": "2026-10-06"
+  },
+  {
+    "id": "financial-aid-fafsa",
+    "topic": "Financial Aid: applying with FAFSA and school code",
+    "category": "Financial Aid",
+    "description": "For federal student aid, complete the FAFSA at https://studentaid.gov and include Webster school code 002521. The Financial Aid office helps with aid applications and assistance programs, including scholarships, grants, loans and work-study. Students may schedule a 20-minute virtual, phone or in-person meeting with a counselor. Check the official page or contact the office for deadlines for your specific award and academic year; a FAFSA submission does not guarantee eligibility or an award.",
+    "email": "financialaid@webster.edu",
+    "url": "https://www.webster.edu/financialaid/index.php",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "housing-application",
+    "topic": "Housing application and deposit",
+    "category": "Housing & Dining",
+    "description": "To apply for housing, sign in to MyWebster with your Connections username without @webster.edu and your password. Select Housing, then Housing Application, and choose your start semester and class standing. The posted deposit is $175, comprising a $25 non-refundable application fee and a $150 deposit, payable by credit card. Housing assignments are made after payment is received. Applications are accepted on a rolling basis. Check the official page for current priority dates and availability; submitting an application does not guarantee a preferred room.",
+    "url": "https://www.webster.edu/housing/apply-for-housing.php",
+    "lastUpdated": "2026-10-13"
+  },
+  {
+    "id": "library-study-rooms",
+    "topic": "Library study room reservations",
+    "category": "Library",
+    "description": "The library has four reservable group study rooms and thirteen group study rooms that cannot be reserved. Current Webster and Eden students, faculty and staff may reserve rooms through the official Reserve a Room page. The library Conference Room is restricted to Webster University-sponsored events. Check the reservation page for available rooms and booking rules.",
+    "url": "https://library.webster.edu/library-services/reserve-a-room",
+    "lastUpdated": "2026-10-13"
+  }
+]
